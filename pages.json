@@ -4,7 +4,16 @@
 		"style": {
 			"navigationBarTitleText": "uni-app"
 		}
-	}],
+	}    ,{
+            "path" : "static/wqe/wqe",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
